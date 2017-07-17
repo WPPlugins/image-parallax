@@ -1,0 +1,17 @@
+.parallax {
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.parallax-container {
+	overflow: hidden;
+	background: rgba(255,255,255,.5);
+	cursor: crosshair;
+}
+.parallax-layers {
+	margin: auto;
+	position: relative;
+}
+.parallax-layers img {
+	max-width: none;
+	position: absolute;
+}
